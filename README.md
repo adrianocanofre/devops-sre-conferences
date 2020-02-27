@@ -1,6 +1,6 @@
 # Conferences  
 
-This is a list of upcoming DevOps/SRE related conferences. If you know of any other ones that haven't been listed yet, fork this repository and create a new PR.
+This is a list of upcoming DevOps/SRE related conferences. If you know of any other ones that haven't been listed yet, fork this repository and create a new **PR**.
 
 ### 2020
 
