@@ -30,3 +30,10 @@ This is a list of upcoming DevOps/SRE related conferences. If you know of any ot
 | DevOpsCon Munich | Nov 30-Dec 3 | [DevOpsCon Munich](https://devopscon.io/munich) | Munich, Germany |
 | re:INVENT | Nov 30- 4 Dec | [re:INVENT](https://reinvent.awsevents.com) | Las Vesgas, USA|
 | SREcon AE | Dec 7-9 | --- | Boston, MA, USA |
+
+
+### Contributing
+
+If you know of an upcoming DevOps/SRE conference, please open a [**Pull Request**](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!   
+
+| name | date |[name-conf](link) | location |
